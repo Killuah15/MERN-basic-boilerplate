@@ -25,15 +25,15 @@ on which some could build greater apps upon.
 
 ## File Structure
 
-# Webpack Configs
+### Webpack Configs
 
 There is only one type of Webpack configs provided `webpack.config.js`. It uses babel-loader, css-loader and style-loader to bundle the ReactJS app into a functional ES5 webapp.
 
-# Server
+### Server
 
 This MERN Boilerplate uses an Express backend to work. It can be found in `server/server.js`.
 
-# V stands for View
+### V stands for View
 
 View `Components` and `Containers` are placed inside the `./src/...` folder. There is a PLACEHOLDER.js inside the container folder, since i didn't have any Container yet.
 
