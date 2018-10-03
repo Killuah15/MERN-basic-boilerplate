@@ -42,4 +42,4 @@ Styles are placed in the `styles` folder inside the `./src/...`folder.
 ## Misc
 
 Since i made this repo just for myself and i don't want to publish any NodeJS apps right now, i probably won't change the `npm build` command.
-However, of course you are free to implement your own build configs, etc. This repo exist to have a very basic and open boilerplate to extend.
+However, of course you are free to implement your own build configs, etc. This repo exist to have a very basic and open boilerplate which can be extended, while already having at least a working app.
