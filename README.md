@@ -25,11 +25,11 @@ on which some could build greater apps upon.
 
 ## File Structure
 
-#Webpack Configs
+# Webpack Configs
 
 There is only one type of Webpack configs provided `webpack.config.js`. It uses babel-loader, css-loader and style-loader to bundle the ReactJS app into a functional ES5 webapp.
 
-#Server
+# Server
 
 This MERN Boilerplate uses an Express backend to work. It can be found in `server/server.js`.
 
