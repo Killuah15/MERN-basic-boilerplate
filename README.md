@@ -33,6 +33,12 @@ There is only one type of Webpack configs provided `webpack.config.js`. It uses 
 
 This MERN Boilerplate uses an Express backend to work. It can be found in `server/server.js`.
 
+# V stands for View
+
+View `Components` and `Containers` are placed inside the `./src/...` folder. There is a PLACEHOLDER.js inside the container folder, since i didn't have any Container yet.
+
+Styles are placed in the `styles` folder inside the `./src/...`folder.
+
 ## Misc
 
 Since i made this repo just for myself and i don't want to publish any NodeJS apps right now, i probably won't change the `npm build` command.
