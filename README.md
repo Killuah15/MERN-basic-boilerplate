@@ -4,6 +4,8 @@ This boilerplate is only made to have a very basic React app from the start. Mos
 some might not want. Since I just found boilerplates with some additional features, i wanted to create a really basic MERN Stack boilerplate
 on which some could build greater apps upon.
 
+IMPORTANT: This repo exist to have a very basic and open boilerplate which can be extended, while already having at least a working app.
+
 ## TODO
 - integrate MongoDB
 - apply Webpack middlewares for bundling and Hot Module Replacement in Express
@@ -42,4 +44,4 @@ Styles are placed in the `styles` folder inside the `./src/...`folder.
 ## Misc
 
 Since i made this repo just for myself and i don't want to publish any NodeJS apps right now, i probably won't change the `npm build` command.
-However, of course you are free to implement your own build configs, etc. This repo exist to have a very basic and open boilerplate which can be extended, while already having at least a working app.
+However, of course you are free to implement your own build configs, etc.
