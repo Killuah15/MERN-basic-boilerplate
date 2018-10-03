@@ -4,7 +4,7 @@ This boilerplate is only made to have a very basic React app from the start. Mos
 some might not want. Since I just found boilerplates with some additional features, i wanted to create a really basic MERN Stack boilerplate
 on which some could build greater apps upon.
 
-IMPORTANT: This repo exist to have a very basic and open boilerplate which can be extended, while already having at least a working app.
+**IMPORTANT:** This repo exist to have a very basic and open boilerplate which can be extended, while already having at least a working app.
 
 ## TODO
 - integrate MongoDB
@@ -29,7 +29,7 @@ IMPORTANT: This repo exist to have a very basic and open boilerplate which can b
 
 ### Webpack Configs
 
-There is only one type of Webpack configs provided `webpack.config.js`. It uses babel-loader, css-loader and style-loader to bundle the ReactJS app into a functional ES5 webapp.
+There is only one type of Webpack configs provided `webpack.config.js`. It uses `babel-loader`, `css-loader` and `style-loader` to bundle the ReactJS app into a functional ES5 webapp.
 
 ### Server
 
