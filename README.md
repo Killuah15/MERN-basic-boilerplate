@@ -4,7 +4,7 @@ This boilerplate is only made to have a very basic React app from the start. Mos
 some might not want. Since I just found boilerplates with some additional features, i wanted to create a really basic MERN Stack boilerplate
 on which some could build greater apps upon.
 
-**IMPORTANT:** This repo exist to have a very basic and open boilerplate which can be extended, while already having at least a working app.
+**IMPORTANT:** This repo exist to have a very basic and open boilerplate which can be extended, while already having at least a working ReactJS app.
 
 ## TODO
 - integrate MongoDB
